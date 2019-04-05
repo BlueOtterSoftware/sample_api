@@ -1,0 +1,19 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Simple Application for Monitoring, Purchasing and Listing of  Equities",
+  "author": "Randy Carver",
+  "license": "MIT",
+  "repository": "rpcarver/sample_api",
+  "scripts": {
+    "start": "node src/api.js"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "core-js": "^2.5.4",
+    "express": "4.16.4",
+    "rxjs": "~6.3.3",
+    "zone.js": "~0.8.26"
+  },
+  "devDependencies": {}
+}
