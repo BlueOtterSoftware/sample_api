@@ -8,7 +8,7 @@ Express based SAMPLE (Simple Application for Monitoring, Purchasing and Listing 
 
 ## Build
 
-Run `npm init` to build the project. 
+Run `npm install` to build the project. 
 
 ## Further help
 
